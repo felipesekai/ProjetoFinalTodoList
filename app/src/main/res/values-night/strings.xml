@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="criar_tarefa_toolbar">Criar Tarefa</string>
+    <string name="criar_tarefa_btn">Criar Tarefa</string>
+    <string name="hora_hint">Hora</string>
+    <string name="editar">Editar</string>
+    <string name="deletar">Deletar</string>
+    <string name="tarefas_title_app">Tarefas</string>
+    <string name="save">Salvar</string>
+    <string name="nenhuma_tafera">Ops, você não tem nenhuma tafera</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Todo List</string>
+    <string name="criar_tarefa_toolbar">Criar Tarefa</string>
+    <string name="criar_tarefa_btn">Criar Tarefa</string>
+    <string name="hora_hint">Hora</string>
+    <string name="data_hint">Data</string>
+    <string name="descri_o_hint">Descrição</string>
+    <string name="titulo_hint">Titulo</string>
+    <string name="editar">Editar</string>
+    <string name="deletar">Deletar</string>
+    <string name="tarefas_title_app">Tarefas</string>
+    <string name="save">Salvar</string>
+    <string name="nenhuma_tafera">Ops, você não tem nenhuma tafera</string>
+</resources>
